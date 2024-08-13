@@ -1,0 +1,11 @@
+.imgWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 480px;
+}
+
+.img {
+  max-width: 100%;
+  max-height: 100%;
+}
